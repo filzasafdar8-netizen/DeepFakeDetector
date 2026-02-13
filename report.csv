@@ -1,0 +1,4 @@
+Image,Prediction,Confidence
+ai_avatar.png,Fake,0.0
+fake_gmail.png,Fake,0.0
+phishing_fb.jpg,Fake,0.0
